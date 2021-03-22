@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AnishRane.
-- 💻 I`m Tech Savy.
-- 🟨-🟥-🟩-🟦 Into Blockchain Dev.
+- 🟨-🟥-🟩-🟦 Interested in Blockchain Development.
 - 🐍 Also Proficient in Python.
-- 👨‍💻 And Also into Web Development.
+
 
 
 <!---
