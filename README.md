@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AnishRane.
 - 🟨-🟥-🟩-🟦 Interested in Blockchain Development.
+- Blockchains:[Algorand, Ethereum].
 - 🐍 Also Proficient in Python.
-
+- Javascript:[Nodejs, Typescript].
 
 
 <!---
