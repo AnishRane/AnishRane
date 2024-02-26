@@ -7,7 +7,7 @@
 
 - 🔭 Professionally working on **NFT Marketplace, CrowdFunding Platform, Staking Pools**
 
-- 🌱 I’m currently learning **NESTjs Backend Framework, hardhat,and truffle**
+- 🌱 I’m proficient in **NESTjs Backend Framework, Docker, Kubernets, AWS services**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnishRane](https://github.com/AnishRane)
 
