@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Building OSNHQ`s CCKB<br>🌱 I’m currently learning : Clean Architecture, Design Patterns <br>💬 Ask me about :  Backend Development, Blockchain Development and DevOps<br>⚡ Fun fact: Im Programmer on weekdays and chef on weekends.
+🛠️ Building osnHQ CCKB<br>🌱 I’m currently learning : Clean Architecture, Design Patterns <br>💬 Ask me about :  Backend Development, Blockchain Development and DevOps<br>⚡ Fun fact: Im Programmer on weekdays and chef on weekends.
 
 
 ## 🌐 Socials:
